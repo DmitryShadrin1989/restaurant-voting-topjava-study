@@ -1,4 +1,4 @@
-package ru.javaops.bootjava.restaurantvoting.model;
+package ru.javaops.bootjava.model;
 
 import lombok.*;
 import org.springframework.data.jpa.domain.AbstractPersistable;
